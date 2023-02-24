@@ -1,0 +1,9 @@
+{
+	"name": "koti-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "343d4866-41a6-4dfa-8b25-65ad997b60e4",
+		"tenantId": "ce4b02db-e08c-4ae4-b338-30c3f1014195"
+	}
+}

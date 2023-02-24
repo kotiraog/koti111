@@ -1,0 +1,9 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"description": "first",
+		"annotations": [
+			"koti"
+		]
+	}
+}
